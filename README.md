@@ -1,8 +1,7 @@
 # PR_5_CALCULATOR
 
 
-additon output :- 
-                             ![addition](https://github.com/user-attachments/assets/57331b8a-fcea-41c6-bbed-de0ba105defe)
+additon output :- ![addition](https://github.com/user-attachments/assets/57331b8a-fcea-41c6-bbed-de0ba105defe)
 
 
 subtraction output :- 
